@@ -1,0 +1,35 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.main-banner {
+  background-image: url(pictures/pattern.jpeg);
+  background-position: center;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+.section-header {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes .section-header {
+  background-color: mediumspringgreen;
+}
+
+.frames .section-header {
+  background-color: lightcoral;
+}
+
+.paint .section-header {
+  background-color: skyblue;
+}
+
+.starting-price {
+  font-weight: bold;
+  color: blue;
+}
